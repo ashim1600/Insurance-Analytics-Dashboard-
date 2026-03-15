@@ -13,6 +13,16 @@ The dashboard is structured into several analytical tabs simulating advanced Pow
 *   **📈 Agent Performance:** Evaluates top-performing direct sales agents based on total premiums collected.
 *   **📥 Reports & Download:** Generates on-the-fly downloadable CSV reports respecting all active sidebar filtering criteria.
 
+## 📸 Dashboard Snapshots
+
+### 1. 📊 Executive Summary & Power BI-Style Demographics
+![Executive Summary](assets/dashboard_lower_section_1773571264810.png)
+![Customer Insights Metrics](assets/customer_insights_metrics_1773572942150.png)
+
+### 2. 🛡️ Compliance, Risk, & Policy Analytics
+![Compliance & Risk Metrics](assets/compliance_risk_tab_metrics_1773573433797.png)
+![Policy Insights](assets/policy_insights_charts_1773573673755.png)
+
 ## 🛠️ Technology Stack
 
 *   **Python:** Core logic and data transformation layer.
