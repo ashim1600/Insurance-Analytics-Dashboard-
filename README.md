@@ -16,7 +16,6 @@ The dashboard is structured into several analytical tabs simulating advanced Pow
 ## 📸 Dashboard Snapshots
 
 ### 1. 📊 Executive Summary & Power BI-Style Demographics
-![Executive Summary](assets/dashboard_lower_section_1773571264810.png)
 ![Customer Insights Metrics](assets/customer_insights_metrics_1773572942150.png)
 
 ### 2. 🛡️ Compliance, Risk, & Policy Analytics
